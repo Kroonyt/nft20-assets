@@ -509,6 +509,16 @@
     "factory_version": 2,
     "removedFees": false,
     "lpToken": "0xdbcd07efd4f8c54023d438fb8a34f5ddadc067c8"
+  },
+  {
+    "name": "DFI",
+    "symbol": "DFI20",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/5957.png",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false,   
   }
   
 ]
